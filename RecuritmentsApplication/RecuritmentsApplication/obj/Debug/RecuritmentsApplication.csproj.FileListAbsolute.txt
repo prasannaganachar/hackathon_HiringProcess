@@ -77,6 +77,5 @@ C:\hackathon_hiringprocess\RecuritmentsApplication\RecuritmentsApplication\bin\M
 C:\hackathon_hiringprocess\RecuritmentsApplication\RecuritmentsApplication\bin\Microsoft.Owin.Security.Google.xml
 C:\hackathon_hiringprocess\RecuritmentsApplication\RecuritmentsApplication\bin\Microsoft.Owin.Security.Twitter.xml
 C:\hackathon_hiringprocess\RecuritmentsApplication\RecuritmentsApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\hackathon_hiringprocess\RecuritmentsApplication\RecuritmentsApplication\obj\Debug\RecuritmentsApplication.csprojResolveAssemblyReference.cache
 C:\hackathon_hiringprocess\RecuritmentsApplication\RecuritmentsApplication\obj\Debug\RecuritmentsApplication.dll
 C:\hackathon_hiringprocess\RecuritmentsApplication\RecuritmentsApplication\obj\Debug\RecuritmentsApplication.pdb
