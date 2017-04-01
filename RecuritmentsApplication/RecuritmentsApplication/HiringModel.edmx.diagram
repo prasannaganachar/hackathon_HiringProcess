@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="86bdab90c87a4ed1b12d842e5cb1592d" Name="Diagram1">
+        <EntityTypeShape EntityType="RecuritmentsDBModel.Candidate" Width="1.5" PointX="3" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecuritmentsDBModel.Candidate_Companies" Width="1.5" PointX="5.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecuritmentsDBModel.Candidate_Skills" Width="1.5" PointX="8.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecuritmentsDBModel.Company" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecuritmentsDBModel.Location" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecuritmentsDBModel.Skill" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecuritmentsDBModel.Status" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="RecuritmentsDBModel.FK__Candidate__Candi__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="RecuritmentsDBModel.FK__Candidate__Candi__2E1BDC42" ManuallyRouted="false" />
+        <AssociationConnector Association="RecuritmentsDBModel.FK__Candidate__Candi__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="RecuritmentsDBModel.FK__Candidate__Locat__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="RecuritmentsDBModel.FK__Candidate__Statu__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="RecuritmentsDBModel.FK__Candidate__Compa__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="RecuritmentsDBModel.FK__Candidate__Skill__3A81B327" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
